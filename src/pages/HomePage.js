@@ -12,7 +12,9 @@ const HomePage = () => {
                     <div className='profile-pic'>
                         <img src={pic} alt='picture' />
                     </div>
-
+                    <div className='card-description'>
+                        <p>ipsom loram</p>
+                    </div>
                 </div>
             </div>
 
